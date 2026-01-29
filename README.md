@@ -9,6 +9,13 @@ This project predicts stock closing prices using an **LSTM Deep Learning model**
 Stock market prediction is a popular time-series forecasting problem.  
 In this project, we use historical stock price data and apply an **LSTM Neural Network** to predict future closing prices.
 
+
+---
+
+## Output Graph
+
+![Prediction Result](output.png.jpeg)
+
 ---
 
 ## 🚀 Features
